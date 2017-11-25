@@ -1,2 +1,2 @@
 # emacs-script
-emacs for [windows users](https://gnu.org/software/emacs/downloads.html)
+emacs for [windows users](https://www.gnu.org/software/emacs/download.html#windows)
